@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppID: 65df63f5-e554-450a-92f0-a9a348549f9b
+  VoiceAppID: 
+  ChatAppID: c002a865-d162-4650-96ba-86b9f326260d
+  HostType: 2
+  PreferredRegion: 12
+  EnabledRegions: -1
+  Protocol: 0
+  ServerAddress: 172.19.10.86
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  JoinLobby: 0
+  EnableLobbyStatistics: 0
+  PunLogging: 0
+  NetworkLogging: 1
+  RunInBackground: 1
+  RpcList:
+  - Chat
+  - ColorRpc
+  - DestroyRpc
+  - DoJump
+  - Flash
+  - InstantiateRpc
+  - Marco
+  - onSpriteFlipFalse
+  - onSpriteFlipTrue
+  - PickupItemInit
+  - Polo
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - TaggedPlayer
+  - changeDirection_Left
+  - changeHealth
+  - destroyObj
+  - decreaseAmmo
+  - increaseAmmo
+  - OnSpriteFlipFalse
+  - OnSpriteFlipTrue
+  - Death
+  - changeAmmo
+  - animation_Running_isFalse
+  - animation_Running_isTrue
+  - animation_Fire_Trigger
+  - SpawnLootTarget
+  - Interact
+  - DoInteractNet
+  - OnCloseDoor
+  - OnOpenDoor
+  - OnCloseCanvas
+  - OnOpenCanvas
+  - animation_Running
+  - OnSpriteFlip
+  - PickUpItem
+  - OnPickUp
+  - animation_Climbing
+  - ActivateTarget
+  DisableAutoOpenWizard: 1

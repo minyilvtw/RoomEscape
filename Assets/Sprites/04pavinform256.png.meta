@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: 773a3e647baed448889ad3d901e2982d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 04pavinform256_0
+    21300002: 04pavinform256_1
+    21300004: 04pavinform256_2
+    21300006: 04pavinform256_3
+    21300008: 04pavinform256_4
+    21300010: 04pavinform256_5
+    21300012: 04pavinform256_6
+    21300014: 04pavinform256_7
+    21300016: 04pavinform256_8
+    21300018: 04pavinform256_9
+    21300020: 04pavinform256_10
+    21300022: 04pavinform256_11
+    21300024: 04pavinform256_12
+    21300026: 04pavinform256_13
+    21300028: 04pavinform256_14
+    21300030: 04pavinform256_15
+    21300032: 04pavinform256_16
+    21300034: 04pavinform256_17
+    21300036: 04pavinform256_18
+    21300038: 04pavinform256_19
+    21300040: 04pavinform256_20
+    21300042: 04pavinform256_21
+    21300044: 04pavinform256_22
+    21300046: 04pavinform256_23
+    21300048: 04pavinform256_24
+    21300050: 04pavinform256_25
+    21300052: 04pavinform256_26
+    21300054: 04pavinform256_27
+    21300056: 04pavinform256_28
+    21300058: 04pavinform256_29
+    21300060: 04pavinform256_30
+    21300062: 04pavinform256_31
+    21300064: 04pavinform256_32
+    21300066: 04pavinform256_33
+    21300068: 04pavinform256_34
+    21300070: 04pavinform256_35
+    21300072: 04pavinform256_36
+    21300074: 04pavinform256_37
+    21300076: 04pavinform256_38
+    21300078: 04pavinform256_39
+    21300080: 04pavinform256_40
+    21300082: 04pavinform256_41
+    21300084: 04pavinform256_42
+    21300086: 04pavinform256_43
+    21300088: 04pavinform256_44
+    21300090: 04pavinform256_45
+    21300092: 04pavinform256_46
+    21300094: 04pavinform256_47
+    21300096: 04pavinform256_48
+    21300098: 04pavinform256_49
+    21300100: 04pavinform256_50
+    21300102: 04pavinform256_51
+    21300104: 04pavinform256_52
+    21300106: 04pavinform256_53
+    21300108: 04pavinform256_54
+    21300110: 04pavinform256_55
+    21300112: 04pavinform256_56
+    21300114: 04pavinform256_57
+    21300116: 04pavinform256_58
+    21300118: 04pavinform256_59
+    21300120: 04pavinform256_60
+    21300122: 04pavinform256_61
+    21300124: 04pavinform256_62
+    21300126: 04pavinform256_63
+    21300128: 04pavinform256_64
+    21300130: 04pavinform256_65
+    21300132: 04pavinform256_66
+    21300134: 04pavinform256_67
+    21300136: 04pavinform256_68
+    21300138: 04pavinform256_69
+    21300140: 04pavinform256_70
+    21300142: 04pavinform256_71
+    21300144: 04pavinform256_72
+    21300146: 04pavinform256_73
+    21300148: 04pavinform256_74
+    21300150: 04pavinform256_75
+    21300152: 04pavinform256_76
+    21300154: 04pavinform256_77
+    21300156: 04pavinform256_78
+    21300158: 04pavinform256_79
+    21300160: 04pavinform256_80
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 29
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 04pavinform256_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260594259ab464f25a5d41cbf941787f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4de93ab28744a8b9def163a8f0b49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf450dda6f8184dc58fc314ee4bb0431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609747bf4e247446d91e44ad525b97d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe6f695fa6945c4ae96229c69017ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b68eb8784444a5ba026899c2ee81fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097ea25be2444dceba3299958cbb54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36232a33383a44b4992d12a3282c693f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 227.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658b7ff1111f40cea01f13bbe74be39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f00da6fcce94566a72438b7de60da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c7f657363f4fb0b0ce942ba8f943e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305e4d2900cc4ee2b477f9551c8e7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d78c0ad79a8464fa879ee5ffb405cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1fa31b35ce4da9a6dd636251088da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f5bf5f9dd9b422fb9e6a733cba2ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefe7d2cfcba4fac84ce917e4c0cbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643914273c0a4aabb35a42a41e97854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd4ae752e7042ad8aa1e7ea3e19f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b48f714429497db9a88fd3c91d682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc67e8e28f834a29b468f6076782d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c41b721aaf458eb6486587d3ff4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c747e7bdf14398a8d4e24501145c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78535f35bd91f49e6878a8a5b30750ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38087de6d23324bd69e6f8f484648bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da958cf00564c4884fcd97b3b90712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2191311142b7545eebbac856051f032a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c8e4e145ad4567a9cef867a4484da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd052c7b4a94f0ab4f97844a088cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed346930842e14a9eae46bad3566287c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a76875dd3d4a288761e3a4a6bc475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897e22caf3af4bdbba9956b1123b20b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c730ba9861b41a2817602aacca129c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5cad07f70be4e459d8f76a298d8dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0239378067f84e44b4ab48ea685162c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d7753568134857ae738a1e18f5e28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d9212dc13e4621844c87bd8fcf98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2832f02c3f5e404aa45795367d8da2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739eb12a7cad44a8b0897899d6588a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ecd243593f4f14b3fc40f58592dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61536f02aa55546eca95869473e1dd73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dac0b8906c94afc81f26c21ecb45b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9a336258d8428e97314be530d38ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69438a786c4f4464cb1d09c063bbfa5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aede64664e524a75a6be04d1f31a051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 115.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43905b77565cc4f19ad6784700efd030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c14298ce184c37801cb7b81f6fd2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_46
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217f004514a74f489c7bed99e5f0afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0466708f8c4461ea4335f794f33b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0506f33883fff46798052e18e7101ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362e3e2ddee64c0eaa6050d81f5f57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465d224c08da4348952ca8f45f7ce0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74298f46e34e48748a09ae3050d36dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f041cea2520544b88b7a398d8d5e694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87.55556
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309505d32f3d741e6b812485fe64e70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c221de07c1b43638084e0392e828e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a63bc4c1944d414a8e1b4d5ded9ff72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53165fe8dac47c7843d056aa337165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700c78953de44b2086602898e10d24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f058a95dd5a4cecb618707bb759e2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f71f6ab0d2d4ea8be63b1008d97d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e732e506488d4052b943fee8928c39f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8029d955ab4ac43f1acfbe56c58e49b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59.555557
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e59ef6ba0df4973b49e7805c14613a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36f37389a254889bc065a7d1ad39fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a54e62989774c09ba22011301af0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed751f806c348ce80cab9d3b07cb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb3af3c8e624ffd8d735becef71074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818105980cda428d91e7a065c33faf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc8d3d970344d1d91a7f81053e82ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfa7058b5c6499f92d7f5793139f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4ac3dcf2854df39ac0319266d9f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31.555555
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0d9699a32d4a5b81c83747ccdc092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9fe0577d7148898968a01cd53d55d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6772b95a45994deb9d80addf0247a3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab697d4ac2424c18aa39f33570e2c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481154a9203e4b60b96e244026ab557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c88ca91b484fb3b383fc588fbe50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678fb4681b5f54c22862cf920e8f442a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957c6ffc6f3e4270ac6a75e2584ce24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_79
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b3a898096c404daa785a879ee03fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04pavinform256_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3.5555553
+        width: 28.444445
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb04ac65c2764e1f84c612d9d81a0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8085087e7b59d49d7b75097d6616171f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+*********** Inspector Only Shows English ***********
+
+//////////////// In Progress /////////////
+- Ladder Climb Down
+- Inventory System UI
+
+//////////////// Tier 1 ////////////////
+- Ibject open Interactable UI/Screen (?) (Zoom in with clickables)
+- Multiplayer support
+
+/////////////// Tier 2 ////////////////
+- Single Player Multi-character
+- Choose between multiple Ibject within Interactable Zone
+- Mouseover highlight (to show which ibject is selected)
+
+/////////////// Improvable ////////////
+- Use State Machine for climbing etc.
+- Inventory List to array for performance
